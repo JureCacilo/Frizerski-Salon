@@ -1,0 +1,13 @@
+a li:active {
+  color: black;
+}
+
+
+.bg-gray {
+  background-color: #edeeef;
+}
+
+.footer-links a {
+  color:black;
+
+}
